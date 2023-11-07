@@ -11,15 +11,21 @@ Our objective for this app is to facilitate the process of buying, selling, and 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
 ## Landing Page
-This is the first page anyone can view as they are viewing our website 
+This is the first page anyone can view as they are viewing our website.
+
+(INSERT IMAGE)
 
 #### Not Logged In
 
 If the user is not logged in, then you will have limited access to the website. You will see the navbar wih "Listings" as the only option.
 
+(INSERT IMAGE)
+
 #### Logged In
 
 If the user is logged in then you will have more access to the website. On the navbar more options will be available such as "Listings", "Sell" and "My Listings" as the options and even message the person thats selling the items on the listing page
+
+(INSERT IMAGE)
 
 ## Sign Up Page
 
@@ -35,22 +41,30 @@ Users can login through their account through this page.
 
 ## Listings Page
 
-You can view all the listings people created and is available for all and if you are logged in you can message the person .
+You can view all the listings people created and is available for all and if you are logged in you can message the person.
+
+(INSERT IMAGE)
 
 ## Sell Page
 
-This page is where you can list your own items to be sold 
+This page is where you can list your own items to be sold.
+
+(INSERT IMAGE)
 
 ## My Listings Page
 
-This is where you can view and edit the information of all your items that you have added to the sell page
+This is where you can view and edit the information of all your items that you have added to the sell page.
+
+(INSERT IMAGE)
 
 
 ## Admins
 
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
-## Team Members
+(INSERT IMAGE)
+
+## Members
 Ryne Stagen
 Zachary Stoddard
 Elijah Inofinada
