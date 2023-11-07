@@ -14,19 +14,19 @@ Our objective for this app is to facilitate the process of buying, selling, and 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
 ## Landing Page
-This is the first page anyone can view as they are viewing our website.
+This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
 
 (INSERT IMAGE)
 
 #### Not Logged In
 
-If the user is not logged in, then you will have limited access to the website. You will see the navbar wih "Listings" as the only option.
+If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
 (INSERT IMAGE)
 
 #### Logged In
 
-If the user is logged in then you will have more access to the website. On the navbar more options will be available such as "Listings", "Sell" and "My Listings" as the options and even message the person thats selling the items on the listing page
+If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
 (INSERT IMAGE)
 
@@ -42,11 +42,6 @@ Users can login through their account through this page.
 
 (Insert IMAGE)
 
-## Listings Page
-
-You can view all the listings people created and is available for all and if you are logged in you can message the person.
-
-(INSERT IMAGE)
 
 ## Sell Page
 
