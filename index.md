@@ -1,3 +1,6 @@
+
+
+
 ## About Us
 
 Spending the majority of your time on campus, whether living, working, or attending classes, results in the accumulation of various campus-specific items. This scenario has given rise to a growing demand for a platform that can facilitate the buying and selling of these goods. Introducing "uh-marketplace," a user-friendly application designed to cater to the needs of students right here at UH Manoa. For further details, please continue reading.
