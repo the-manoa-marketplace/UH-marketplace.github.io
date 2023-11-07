@@ -1,63 +1,63 @@
-#### About Us
+## About Us
 
 Spending the majority of your time on campus, whether living, working, or attending classes, results in the accumulation of various campus-specific items. This scenario has given rise to a growing demand for a platform that can facilitate the buying and selling of these goods. Introducing "uh-marketplace," a user-friendly application designed to cater to the needs of students right here at UH Manoa. For further details, please continue reading.
 
-#### Objectives/Goals
+## Objectives/Goals
 
 Our objective for this app is to facilitate the process of buying, selling, and even trading items at UH Manoa, making it easier than ever before. By doing so, we aim to help people save money, prevent items from going to waste, and enable them to earn back some of their expenses. Given the ever-changing population of students at UH Manoa, this app has the potential to benefit a wide range of people.
 
-#### What we offer
+## What we offer
 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
-#### Landing Page
+## Landing Page
 This is the first page anyone can view as they are viewing our website 
 
-### Not Logged In
+#### Not Logged In
 
 If the user is not logged in, then you will have limited access to the website. You will see the navbar wih "Listings" as the only option.
 
-### Logged In
+#### Logged In
 
 If the user is logged in then you will have more access to the website. On the navbar more options will be available such as "Listings", "Sell" and "My Listings" as the options and even message the person thats selling the items on the listing page
 
-#### Sign Up Page
+## Sign Up Page
 
 If users dont have an account they can sign up through this page.
 
 (INSERT IMAGE)
 
-#### Login Page
+## Login Page
 
 Users can login through their account through this page.
 
 (Insert IMAGE)
 
-#### Listings Page
+## Listings Page
 
 You can view all the listings people created and is available for all and if you are logged in you can message the person .
 
-#### Sell Page
+## Sell Page
 
 This page is where you can list your own items to be sold 
 
-### My Listings Page
+## My Listings Page
 
 This is where you can view and edit the information of all your items that you have added to the sell page
 
 
-#### Admin
+## Admins
 
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
-#### Team Members
+## Team Members
 Ryne Stagen
 Zachary Stoddard
 Elijah Inofinada
 Brandon Underwood
 Mark Posey
 
-#### Instllation
+## Instllation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, go to [https://github.com/ics-software-engineering/meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
