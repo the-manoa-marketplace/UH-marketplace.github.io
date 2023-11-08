@@ -75,51 +75,50 @@ meteor npm run lint
 ## Landing Page
 This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 #### Not Logged In
 
 If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 #### Logged In
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 ## Sign Up Page
 
 If users dont have an account they can sign up through this page.
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 ## Login Page
 
 Users can login through their account through this page.
 
-(Insert IMAGE)
-
+<img src=".images/uhmainlogo.png">
 
 ## Sell Page
 
 This page is where you can list your own items to be sold.
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 ## My Listings Page
 
 This is where you can view and edit the information of all your items that you have added to the sell page.
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 
 ## Admins
 
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
-(INSERT IMAGE)
+<img src=".images/uhmainlogo.png">
 
 ## Members
 Ryne Stagen, 
