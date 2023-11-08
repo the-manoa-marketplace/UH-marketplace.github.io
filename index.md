@@ -21,7 +21,7 @@ This is the first page anyone can view as they are viewing our website. It shows
 
 If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
-<img src="../.images/Home.png">
+<img src=".images/Home.png">
 
 #### Logged In
 
