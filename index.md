@@ -21,13 +21,13 @@ This is the first page anyone can view as they are viewing our website. It shows
 
 If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
-<img src=".images/Home.png">
+<img src=".images/NotLoggedIn.png">
 
 #### Logged In
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-<img src=".images/Home.png">
+<img src=".images/LoggedIn.png">
 
 ### Sign Up Page
 
