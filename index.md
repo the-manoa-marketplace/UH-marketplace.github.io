@@ -10,7 +10,56 @@ Our objective for this app is to facilitate the process of buying, selling, and 
 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
-## Instllation
+## Landing Page
+This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
+
+<img src=".images/landing.png">
+
+#### Not Logged In
+
+If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
+
+<img src=".images/landing.png">
+
+#### Logged In
+
+If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
+
+<img src=".images/login.png">
+
+## Sign Up Page
+
+If users dont have an account they can sign up through this page.
+
+** Pretend there is an img here **
+
+## Login Page
+
+Users can login through their account through this page.
+
+<img src=".images/login.png">
+
+## Sell Page
+
+This page is where you can list your own items to be sold.
+
+<img src=".images/newlisting.png">
+
+## My Listings Page
+
+This is where you can view and edit the information of all your items that you have added to the sell page.
+
+** Pretend there is an img here **
+
+## Admins
+
+This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
+
+<img src=".images/admin.png">
+<img src=".images/david.png">
+<img src=".images/davidlist.png">
+
+## Installation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, go to [https://github.com/ics-software-engineering/meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
@@ -71,55 +120,6 @@ You can verify that the code obeys our coding standards by running ESLint over t
 ```
 meteor npm run lint
 ```
-
-## Landing Page
-This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
-
-<img src=".images/landing.png">
-
-#### Not Logged In
-
-If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
-
-<img src=".images/landing.png">
-
-#### Logged In
-
-If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
-
-<img src=".images/login.png">
-
-## Sign Up Page
-
-If users dont have an account they can sign up through this page.
-
-** Pretend there is an img here **
-
-## Login Page
-
-Users can login through their account through this page.
-
-<img src=".images/login.png">
-
-## Sell Page
-
-This page is where you can list your own items to be sold.
-
-<img src=".images/newlisting.png">
-
-## My Listings Page
-
-This is where you can view and edit the information of all your items that you have added to the sell page.
-
-** Pretend there is an img here **
-
-## Admins
-
-This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
-
-<img src=".images/admin.png">
-<img src=".images/david.png">
-<img src=".images/davidlist.png">
 
 ## Members
 Ryne Stagen, 
