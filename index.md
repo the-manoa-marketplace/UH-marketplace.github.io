@@ -87,7 +87,7 @@ If the user is not logged in, then you will have limited access to the website. 
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-<img src=".images/loggedlanding.png">
+<img src=".images/login.png">
 
 ## Sign Up Page
 
@@ -118,6 +118,8 @@ This is where you can view and edit the information of all your items that you h
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
 <img src=".images/admin.png">
+<img src=".images/david.png">
+<img src=".images/davidlist.png">
 
 ## Members
 Ryne Stagen, 
