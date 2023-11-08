@@ -39,7 +39,7 @@ If users dont have an account they can sign up through this page.
 
 Users can login through their account through this page.
 
-<img src=".images/Login.png">
+<img src="Login.png">
 
 ### Sell Page
 
