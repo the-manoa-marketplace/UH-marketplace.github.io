@@ -111,14 +111,13 @@ This page is where you can list your own items to be sold.
 
 This is where you can view and edit the information of all your items that you have added to the sell page.
 
-<img src=".images/uhmainlogo.png">
-
+** Pretend there is an img here **
 
 ## Admins
 
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
-** Pretend there is an img here **
+<img src=".images/admin.png">
 
 ## Members
 Ryne Stagen, 
