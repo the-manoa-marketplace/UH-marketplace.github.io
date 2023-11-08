@@ -15,7 +15,7 @@ We offer a way for students to buy/sell items. The marketplace is open for every
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
 
-<img src="images/Home.png" alt="Home Image">
+<img src=".images/Home.png" alt="Home Image">
 
 #### Not Logged In
 
