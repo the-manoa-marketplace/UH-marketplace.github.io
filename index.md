@@ -15,13 +15,13 @@ We offer a way for students to buy/sell items. The marketplace is open for every
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
 
-<img src=".images/Home.png">
+<img src="../.images/Home.png" class="img-thumnail">
 
 #### Not Logged In
 
 If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
-<img src=".images/Home.png">
+<img src="../.images/Home.png">
 
 #### Logged In
 
