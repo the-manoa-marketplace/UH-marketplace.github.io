@@ -1,6 +1,11 @@
-title: Uh Marketplace
-description: An app to buy and sell items between UH students
+title: UHMarketplace
+description: An app where UH students can buy and sell items
 show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: #
+social:
+  type: Organization
 gems:
   - jekyll-mentions
