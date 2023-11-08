@@ -61,7 +61,11 @@ This is only for authorized access and these individuals can do edit and remove 
 <img src="images/David Martinez Listing.png">
 <img src="images/David Martinez Listing 2.png">
 
+### Milestone 1 - Basic needs
 
+### Milestone 2
+
+### Milestone 3
 
 ### Members
 UH Marketplace was created by 
@@ -72,4 +76,4 @@ Brandon Underwood,
 Mark Posey,
 All members created and agreed to the terms of <a href="https://docs.google.com/document/d/1hA1DgIcQTYfmhvpeaGIpJnZtc9JGGncrJdrkwGfT2AQ/edit">Contract</a>
 
-<a href= "https://github.com/orgs/the-manoa-marketplace/projects/1" >Milestone 1</a>
+<a href= "https://github.com/orgs/the-manoa-marketplace/projects/1" ></a>
