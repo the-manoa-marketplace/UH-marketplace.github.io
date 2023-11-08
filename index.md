@@ -15,51 +15,51 @@ We offer a way for students to buy/sell items. The marketplace is open for every
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
 
-<img src="/.images/Home.png" alt="Home Image">
+<img src="/images/Home.png" alt="Home Image">
 
 #### Not Logged In
 
 If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
-<img src=".images/NotLoggedIn.png">
+<img src="images/NotLoggedIn.png">
 
 #### Logged In
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-<img src=".images/LoggedIn.png">
+<img src="images/LoggedIn.png">
 
 ### Sign Up Page
 
 If users dont have an account they can sign up through this page.
 
-<img src=".images/SignUp.png">
+<img src="images/SignUp.png">
 
 ### Login Page
 
 Users can login through their account through this page.
 
-<img src=".images/Login.png">
+<img src="images/Login.png">
 
 ### Sell Page
 
 This page is where you can list your own items to be sold.
 
-<img src=".images/Sell.png">
+<img src="images/Sell.png">
 
 ### My Listings Page
 
 This is where you can view and edit the information of all your items that you have added to the sell page.
 
-<img src=".images/Your Listing's.png">
+<img src="images/Your Listing's.png">
 
 ### Admins
 
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
-<img src=".images/Admin.png">
-<img src=".images/David Martinez Listing.png">
-<img src=".images/David Martinez Listing 2.png">
+<img src="images/Admin.png">
+<img src="images/David Martinez Listing.png">
+<img src="images/David Martinez Listing 2.png">
 
 
 
