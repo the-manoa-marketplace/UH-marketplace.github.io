@@ -71,3 +71,5 @@ Elijah Inofinada,
 Brandon Underwood,
 Mark Posey,
 All members agreed and created the <a href="https://docs.google.com/document/d/1hA1DgIcQTYfmhvpeaGIpJnZtc9JGGncrJdrkwGfT2AQ/edit">Contract</a>
+
+<a href= "https://github.com/orgs/the-manoa-marketplace/projects/1" >Milestone 1</a>
