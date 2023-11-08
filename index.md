@@ -59,7 +59,7 @@ This is only for authorized access and these individuals can do edit and remove 
 
 <img src=".images/Admin.png">
 <img src=".images/David Martinez Listing .png">
-<img src=".images/David Martinez 2.png">
+<img src=".images/David Martinez Listing 2.png">
 
 ### Members
 Ryne Stagen, 
