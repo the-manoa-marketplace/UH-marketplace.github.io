@@ -58,12 +58,16 @@ This is where you can view and edit the information of all your items that you h
 This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
 
 <img src=".images/Admin.png">
-<img src=".images/David Martinez Listing .png">
+<img src=".images/David Martinez Listing.png">
 <img src=".images/David Martinez Listing 2.png">
 
+
+
 ### Members
+UH Marketplace was created by 
 Ryne Stagen, 
 Zachary Stoddard,
 Elijah Inofinada,
 Brandon Underwood,
 Mark Posey,
+All members agreed and created the <a href="https://docs.google.com/document/d/1hA1DgIcQTYfmhvpeaGIpJnZtc9JGGncrJdrkwGfT2AQ/edit">Contract</a>
