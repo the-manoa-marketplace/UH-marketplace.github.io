@@ -13,62 +13,6 @@ Our objective for this app is to facilitate the process of buying, selling, and 
 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
-## Landing Page
-This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
-
-(INSERT IMAGE)
-
-#### Not Logged In
-
-If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
-
-(INSERT IMAGE)
-
-#### Logged In
-
-If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
-
-(INSERT IMAGE)
-
-## Sign Up Page
-
-If users dont have an account they can sign up through this page.
-
-(INSERT IMAGE)
-
-## Login Page
-
-Users can login through their account through this page.
-
-(Insert IMAGE)
-
-
-## Sell Page
-
-This page is where you can list your own items to be sold.
-
-(INSERT IMAGE)
-
-## My Listings Page
-
-This is where you can view and edit the information of all your items that you have added to the sell page.
-
-(INSERT IMAGE)
-
-
-## Admins
-
-This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
-
-(INSERT IMAGE)
-
-## Members
-Ryne Stagen
-Zachary Stoddard
-Elijah Inofinada
-Brandon Underwood
-Mark Posey
-
 ## Instllation
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -131,8 +75,58 @@ You can verify that the code obeys our coding standards by running ESLint over t
 meteor npm run lint
 ```
 
+## Landing Page
+This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
+
+(INSERT IMAGE)
+
+#### Not Logged In
+
+If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
+
+(INSERT IMAGE)
+
+#### Logged In
+
+If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
+
+(INSERT IMAGE)
+
+## Sign Up Page
+
+If users dont have an account they can sign up through this page.
+
+(INSERT IMAGE)
+
+## Login Page
+
+Users can login through their account through this page.
+
+(Insert IMAGE)
 
 
+## Sell Page
+
+This page is where you can list your own items to be sold.
+
+(INSERT IMAGE)
+
+## My Listings Page
+
+This is where you can view and edit the information of all your items that you have added to the sell page.
+
+(INSERT IMAGE)
 
 
+## Admins
 
+This is only for authorized access and these individuals can do edit and remove any item/User as they seem fit
+
+(INSERT IMAGE)
+
+## Members
+Ryne Stagen, 
+Zachary Stoddard,
+Elijah Inofinada,
+Brandon Underwood,
+Mark Posey,
