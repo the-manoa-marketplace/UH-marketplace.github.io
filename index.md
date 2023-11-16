@@ -12,6 +12,10 @@ Our objective for this app is to facilitate the process of buying, selling, and 
 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
+### Deployment
+
+You can access our deployed application running on Digital Ocean <a href="http://147.182.200.255/">here</a>
+
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It shows all the items that users list.
 
