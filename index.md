@@ -63,7 +63,7 @@ This page is where you can see your own items being sold.
 
 <img src="images/M1/ListStuff1.png">
 
-### Your Listings Page
+### Home Page
 
 This is the general listings page.
 
