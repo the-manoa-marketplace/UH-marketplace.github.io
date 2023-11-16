@@ -63,6 +63,12 @@ This page is where you can see your own items being sold.
 
 <img src="images/M1/ListStuff1.png">
 
+### Your Listings Page
+
+This is the general listings page.
+
+<img src="images/M1/Screenshot 2023-11-15 200450.png">
+
 ### Profile Page
 
 This page is where you can visit your profile.
