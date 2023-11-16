@@ -61,9 +61,9 @@ This is only for authorized access and these individuals can do edit and remove 
 <img src="images/David Martinez Listing.png">
 <img src="images/David Martinez Listing 2.png">
 
-### <a href="https://github.com/orgs/the-manoa-marketplace/projects/1/views/3">Milestone 1</a> - Basic needs
+### Milestone 1 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/1/views/3">Basic Needs</a>
 
-### Milestone 2
+### Milestone 2 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/2">Fixes and overall improvement</a>
 
 ### Milestone 3
 
