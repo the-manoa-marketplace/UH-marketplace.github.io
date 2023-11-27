@@ -14,7 +14,7 @@ We offer a way for students to buy/sell items. The marketplace is open for every
 
 ### Deployment
 
-You can access our deployed application running on Digital Ocean <a href="http://147.182.200.255/">here</a>
+You can access our deployed application running on Digital Ocean <a href="https://uhmarketplace.com">here</a>
 
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It prompts the user to login if they want to continue.
