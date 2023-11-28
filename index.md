@@ -16,6 +16,21 @@ We offer a way for students to buy/sell items. The marketplace is open for every
 
 You can access our deployed application running on Digital Ocean <a href="https://uhmarketplace.com">here</a>
 
+### Developer Guide
+1. Begin by installing Meteor based on the instructions tailored to your operating system.
+2. Create your personalized version by accessing the original template on our page. Navigate to the "generated from" link, and select "use this template" to create your iteration.
+3. After downloading the template to your local machine, navigate to the 'app/' directory using the
+command line (cd) and install the necessary packages with the following command:
+
+$ meteor npm install
+
+4. Execute the system by running:
+
+$ meteor npm run start
+   
+5. Assuming everything is configured correctly, the application should be accessible at http://localhost:3000.
+
+
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It prompts the user to login if they want to continue.
 
