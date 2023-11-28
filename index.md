@@ -25,13 +25,13 @@ This is the first page anyone can view as they are viewing our website. It promp
 
 If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
 
-<img src="images/M1/HomePageNotLoggedIn1.png">
+<img src="images/M2/notloggedinlanding.png">
 
 #### Logged In
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-<img src="images/M1/HomePage1.png">
+<img src="images/M2/loggedinlanding.png">
 
 ### Sign Up Page
 
@@ -49,31 +49,37 @@ Users can login through their account through this page.
 
 This page is showing the user what happens after logging out.
 
-<img src="images/M1/SignedOut1.png">
+<img src="images/M2/SignedOut.png">
 
 ### Sell Page
 
 This page is where you can list your own items to be sold.
 
-<img src="images/M1/SellPage1.png">
+<img src="images/M2/Sell.png">
 
 ### Your Listings Page
 
 This page is where you can see your own items being sold.
 
-<img src="images/M1/ListStuff1.png">
+<img src="images/M2/YourListings.png">
 
 ### Home Page
 
 This is the general listings page.
 
-<img src="images/M1/Screenshot 2023-11-15 200450.png">
+<img src="images/M2/ItemsForSale.png">
 
 ### Profile Page
 
 This page is where you can visit your profile.
 
-<img src="images/M1/Profile1.png">
+<img src="images/M2/profile.png">
+
+### Footer
+
+This image shows the updated footer being used.
+
+<img src="images/M2/profile.png">
 
 
 ### Milestone 1 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/1/views/3">Basic Needs</a>
