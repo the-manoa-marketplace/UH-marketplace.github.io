@@ -19,7 +19,7 @@ You can access our deployed application running on Digital Ocean <a href="https:
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It prompts the user to login if they want to continue.
 
-<img src="images/M1/HomePageNotLoggedIn1.png" alt="Home Image">
+<img src="images/M2/notloggedinlanding.png" alt="Home Image">
 
 #### Not Logged In
 
@@ -43,7 +43,7 @@ If users dont have an account they can sign up through this page.
 
 Users can login through their account through this page.
 
-<img src="images/M1/Login1.png">
+<img src="images/M2/signin.png">
 
 ### Sign Out
 
