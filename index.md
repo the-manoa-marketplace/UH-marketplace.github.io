@@ -80,7 +80,7 @@ This page is where you can visit your profile.
 
 ### Milestone 2 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/2">Fixes and overall improvement</a>
 
-### Milestone 3
+### Milestone 3 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/3/views/1">Finnishing Touches</a>
 
 ### Members
 UH Marketplace was created by 
