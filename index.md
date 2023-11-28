@@ -79,7 +79,7 @@ This page is where you can visit your profile.
 
 This image shows the updated footer being used.
 
-<img src="images/M2/profile.png">
+<img src="images/M2/footershit.png">
 
 
 ### Milestone 1 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/1/views/3">Basic Needs</a>
