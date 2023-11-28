@@ -22,11 +22,15 @@ You can access our deployed application running on Digital Ocean <a href="https:
 3. After downloading the template to your local machine, navigate to the 'app/' directory using the
 command line (cd) and install the necessary packages with the following command:
 
+```
 $ meteor npm install
+```
 
 4. Execute the system by running:
 
+```
 $ meteor npm run start
+```
    
 5. Assuming everything is configured correctly, the application should be accessible at http://localhost:3000.
 
