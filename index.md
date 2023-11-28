@@ -18,8 +18,10 @@ You can access our deployed application running on Digital Ocean <a href="https:
 
 ### Developer Guide
 1. Begin by installing Meteor based on the instructions tailored to your operating system.
-2. Create your personalized version by accessing the original template on our page. Navigate to the "generated from" link, and select "use this template" to create your iteration.
-3. After downloading the template to your local machine, navigate to the 'app/' directory using the
+   
+3. Create your personalized version by accessing the original template on our page. Navigate to the "generated from" link, and select "use this template" to create your iteration.
+   
+5. After downloading the template to your local machine, navigate to the 'app/' directory using the
 command line (cd) and install the necessary packages with the following command:
 
 ```
