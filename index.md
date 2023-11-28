@@ -37,7 +37,7 @@ If the user is logged in then you will have more access to the website. A nav ba
 
 If users dont have an account they can sign up through this page.
 
-<img src="images/M1/Register1.png">
+<img src="images/M2/signup.png">
 
 ### Login Page
 
