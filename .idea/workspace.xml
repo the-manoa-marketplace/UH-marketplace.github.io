@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb7e142a-e911-4235-86e3-347871aa2acc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/M3/AdminReport.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/CreateListing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/HomePage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/Landing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/ListingCard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/LoggedIn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/Login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/NotLoggedIn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/Register.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/Reporting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/SignOut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/M3/YourListing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M3/Profile.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/M3/Register.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/M3/Register.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/brand/Documents/GitHub/uh-marketplace.github.io/images/M3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +45,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brand\Documents\GitHub\uh-marketplace.github.io\images\M3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\brand\Documents\GitHub\uh-marketplace.github.io\images\M3" />
     </key>
@@ -68,7 +62,7 @@
       <updated>1699209547481</updated>
       <workItem from="1699209560852" duration="29000" />
       <workItem from="1700111560414" duration="629000" />
-      <workItem from="1702274215404" duration="1500000" />
+      <workItem from="1702274215404" duration="2516000" />
     </task>
     <servers />
   </component>

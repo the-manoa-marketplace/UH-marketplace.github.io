@@ -12,6 +12,10 @@ Our objective for this app is to facilitate the process of buying, selling, and 
 
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a "User" (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user's listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
+### Community Feedback
+
+The Team wants your feedback! If you have some time to fill out our <a href="https://forms.gle/8DxDMsFVNLr6t9z76">feedback form</a> you can let us know your rating on our site!  Fill out any issues you have or tell us how we can improve or leave some general feeback which we can use as reviews for our site. In any case thank you for your valuable time!
+
 ### Deployment
 
 You can access our deployed application running on Digital Ocean <a href="https://uhmarketplace.com">here</a>
@@ -89,7 +93,7 @@ This is the general listings page.
 
 This page is where you can visit your profile.
 
-<img src="images/M2/profile.png">
+<img src="images/M3/profile.png">
 
 ### Listing Card
 
