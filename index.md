@@ -16,6 +16,10 @@ We offer a way for students to buy/sell items. The marketplace is open for every
 
 The Team wants your feedback! If you have some time to fill out our <a href="https://forms.gle/8DxDMsFVNLr6t9z76">feedback form</a> you can let us know your rating on our site!  Fill out any issues you have or tell us how we can improve or leave some general feedback which we can use as reviews for our site. In any case thank you for your valuable time!
 
+### Reviews
+
+John Mercer East (5★) - "It's good but unfinished" 
+
 ### Deployment
 
 You can access our deployed application running on Digital Ocean <a href="https://uhmarketplace.com">here</a>
