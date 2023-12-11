@@ -51,7 +51,7 @@ This is the first page anyone can view as they are viewing our website. It promp
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-<img src="images/M3/loggedIn.png">
+<img src="images/M3/LoggedIn.png">
 
 ### Sign Up Page
 
