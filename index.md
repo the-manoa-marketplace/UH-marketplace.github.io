@@ -93,7 +93,7 @@ This is the general listings page.
 
 This page is where you can visit your profile.
 
-<img src="images/M3/profile.png">
+<img src="images/M3/Profile.png">
 
 ### Listing Card
 
