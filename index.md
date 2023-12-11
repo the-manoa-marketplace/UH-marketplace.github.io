@@ -40,55 +40,50 @@ $ meteor npm run start
 ### Landing Page
 This is the first page anyone can view as they are viewing our website. It prompts the user to login if they want to continue.
 
-<img src="images/M2/notloggedinlanding.png" alt="Home Image">
+<img src="images/M3/NotLoggedIn.png" alt="Home Image">
 
-#### Not Logged In
-
-If the user is not logged in, then you will have limited access to the website. You can only view the landing page.
-
-<img src="images/M2/notloggedinlanding.png">
 
 #### Logged In
 
 If the user is logged in then you will have more access to the website. A nav bar will appear with "Sell" and "My Listings" option.
 
-<img src="images/M2/loggedinlanding.png">
+<img src="images/M3/loggedIn.png">
 
 ### Sign Up Page
 
-If users dont have an account they can sign up through this page.
+If users don't have an account they can sign up through this page.
 
-<img src="images/M2/signup.png">
+<img src="images/M3/Register.png">
 
 ### Login Page
 
 Users can login through their account through this page.
 
-<img src="images/M2/signin.png">
+<img src="images/M3/Login.png">
 
 ### Sign Out
 
 This page is showing the user what happens after logging out.
 
-<img src="images/M2/SignedOut.png">
+<img src="images/M3/SignOut.png">
 
 ### Sell Page
 
 This page is where you can list your own items to be sold.
 
-<img src="images/M2/Sell.png">
+<img src="images/M3/CreateListing.png">
 
 ### Your Listings Page
 
 This page is where you can see your own items being sold.
 
-<img src="images/M2/YourListings.png">
+<img src="images/M3/YourListing.png">
 
 ### Home Page
 
 This is the general listings page.
 
-<img src="images/M2/ItemsForSale.png">
+<img src="images/M3/HomePage.png">
 
 ### Profile Page
 
@@ -96,11 +91,23 @@ This page is where you can visit your profile.
 
 <img src="images/M2/profile.png">
 
-### Footer
+### Listing Card
 
-This image shows the updated footer being used.
+This page shows a card with full details after clicking onto a listing.
 
-<img src="images/M2/footershit.png">
+<img src="images/M3/ListingCard.png">
+
+### Listing Report
+
+This page shows a text box that appears after clicking report on the bottom right.
+
+<img src="images/M3/Reporting.png">
+
+### Admin Reporting
+
+This page shows reports sent in from users. The admin on the page can either dismiss the report without deleting or delete then dismiss the report to close it off.
+
+<img src="images/M3/AdminReport.png">
 
 
 ### Milestone 1 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/1/views/3">Basic Needs</a>
