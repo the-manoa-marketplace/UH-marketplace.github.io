@@ -122,7 +122,7 @@ This page shows reports sent in from users. The admin on the page can either dis
 
 ### Milestone 2 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/2">Fixes and overall improvement</a>
 
-### Milestone 3 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/3/views/1">Finnishing Touches</a>
+### Milestone 3 - <a href="https://github.com/orgs/the-manoa-marketplace/projects/3/views/1">Finishing Touches</a>
 
 ### Members
 UH Marketplace was created by 
